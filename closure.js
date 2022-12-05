@@ -10,7 +10,7 @@ function getName(){
         console.log(name);
     }
 
-    // name="faraz"             
+    name="faraz"             
 return inner;
 }
 
