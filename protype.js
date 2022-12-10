@@ -12,6 +12,7 @@ let prtype={
     }
 }
 
+
 //sub prototype
 
 let subPro={
@@ -19,6 +20,7 @@ let subPro={
         console.log("sub prototype");
     }
 }
+
 
 obj.__proto__=prtype;
 prtype.__proto__=subPro;
